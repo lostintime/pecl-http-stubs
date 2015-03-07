@@ -1,0 +1,24 @@
+{
+  "name": "lostintime/pecl-http-stubs",
+  "description": "Stubs for pecl http library http://pecl.php.net/package/pecl_http",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "lostintime",
+      "email": "lostintime.dev@gmail.com"
+    }
+  ],
+  "keywords": [
+    "php",
+    "pecl",
+    "http"
+  ],
+  "license": "MIT",
+  "autoload": {
+  },
+  "repositories": [
+  ],
+  "require": {
+    "ext-http": "2.x"
+  }
+}
