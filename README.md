@@ -6,4 +6,5 @@ Stubs for pecl http library http://pecl.php.net/package/pecl_http
 Documentation
 -------------
 
-http://devel-m6w6.rhcloud.com/mdref/http
+Base on http://devel-m6w6.rhcloud.com/mdref/http (module version v2.3.1, mdref-v1.0.0)
+
